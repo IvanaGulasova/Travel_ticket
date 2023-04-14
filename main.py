@@ -1,4 +1,4 @@
-greet = "VITEJTE U NASI APLIKACE DESTINATIO!"
+greet = "WELCOME TO OUR DESTINATIO APP!"
 cities = ["Praha", "Viden", "Olomouc", "Svitavy", "Zlin", "Ostrava"]
 domains = ("gmail.com", "seznam.cz", "email.cz")
 discount = ("Olomouc", "Svitavy", "Ostrava")
